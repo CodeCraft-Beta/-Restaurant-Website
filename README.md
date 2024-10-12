@@ -1,23 +1,31 @@
-# BORCELLE Store Website
-This is a Website of Store. I am make Following Section in this Website.
+# Restaurant-Website
+This is a Website of Restaurant. I am make Following Section in this Website.
 
-**HOME**
++ **Home**
 
-**SHOW**
++ **About**
 
-**CASE** 
++ **Service**
 
-**ABOUT** 
++ **Menu**
 
-**COURSES** 
++ **Pages**
 
-**SHOP** 
+  + Booking
+  
+  + Our Team
+  
+  + Testimonial
+  
+  + Privacy Policy
+  
+  + Terms & Condition
 
-**CONTACT**.
++ **Contact**
 
 Watch more Website Template in my Website.
 
-**Live Demo** - https://codecraft-beta.github.io/Store-Website/
+**Live Demo** - https://codecraft-beta.github.io/Restaurant-Website/
 
 # CodeCraft-Beta
 
