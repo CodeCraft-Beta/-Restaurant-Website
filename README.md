@@ -27,6 +27,8 @@ Watch more Website Template in my Website.
 
 **Live Demo** - https://codecraft-beta.github.io/Restaurant-Website/
 
+**Website Video** - Coming soon
+
 # CodeCraft-Beta
 
 This Github Account is Made Website Templates, Everyone Preview any Website Template and also Download the Templates.
