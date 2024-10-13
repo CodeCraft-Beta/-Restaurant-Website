@@ -27,7 +27,7 @@ Watch more Website Template in my Website.
 
 **Live Demo** - https://codecraft-beta.github.io/Restaurant-Website/
 
-**Website Video** - Coming soon
+**Website Video** - https://youtu.be/_o5HXHzuW0I?si=syUAEoSC5ZK2DHPt
 
 # CodeCraft-Beta
 
